@@ -20,7 +20,7 @@ Adds a setting tab on woo commerce settings in order to specify if you want an a
 1. Upload the plugin to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
-To use this plugin, go to woo commerce setting, simply enter the number of seconds you wish the page to refresh after in the box and enable it. 
+To use this plugin, go to woo commerce setting, simply enter the number of seconds you wish the page to refresh after in the box and enable it.
 
 == Frequently Asked Questions ==
 
@@ -37,4 +37,4 @@ N/A
 == Changelog ==
 
 * 0.1 Initial version
- - Specify seconds to auto refresh the page/post
+ - Specify seconds to auto refresh the order page

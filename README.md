@@ -2,7 +2,7 @@
 A little plugin for WooCommerce on Wordpress platform. Permit to automatically refresh the admin order page.
 
 ## Install
-1. Download the woocommerce-auto-refresh-order.zip
+1. Download the [woocommerce-auto-refresh-order.zip](https://github.com/gabriserra/WoocommerceAutoRefreshOrder/releases)
 2. Upload the plugin to the '/wp-content/plugins/' directory or install via 'Add new Plugin' page
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
